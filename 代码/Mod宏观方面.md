@@ -2,7 +2,7 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-16T14:13:05.915Z
+date: 2025-06-16T14:28:27.761Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
@@ -11,9 +11,9 @@ dateCreated: 2025-06-16T14:11:49.626Z
 > 该教程适用于 **本体版本 (v1.16.8.38f9)/本体测试版 (v1.16.9)**
 {.is-success}
 
-## 第一章：创建你的第一个 Mod
+# 第一章：创建你的第一个 Mod
 
-### 步骤 1：打开游戏启动器
+## 步骤 1：打开游戏启动器
 
 打开《钢铁雄心 IV》的游戏启动器。
 
@@ -45,11 +45,11 @@ Mod 文件的默认路径如下：`C:\Users\你的用户名\Documents\Paradox In
 
 ---
 
-## 第二章：推荐编码工具
+# 第二章：推荐编码工具
 
 现在，你已经拥有了一个崭新的 Mod，下一步就是选择一个好用的代码编辑工具。
 
-### 推荐工具一：Visual Studio Code（VSC）
+## 推荐工具一：Visual Studio Code（VSC）
 
 #### ✅ 安装与配置步骤：
 
