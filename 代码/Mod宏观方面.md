@@ -2,7 +2,7 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-16T14:38:41.870Z
+date: 2025-06-16T14:39:13.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
@@ -55,7 +55,7 @@ Mod 文件的默认路径如下：`C:\Users\你的用户名\Documents\Paradox In
 
 1. 打开浏览器，下载并安装 [Visual Studio Code](https://code.visualstudio.com/)
 2. 启动软件后点击左侧【扩展】按钮（或快捷键 `Ctrl+Shift+X`）
-3. 搜索并安装以下三个插件：
+3. 搜索并安装以下四个插件：
    - `Chinese (Simplified)`（中文语言包）
    - `CWTools`（适用于 Paradox 游戏的开发插件）
    - `VModder`（针对 CWTools 的补充插件）
