@@ -2,7 +2,7 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-16T14:11:49.626Z
+date: 2025-06-16T14:13:05.915Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
@@ -10,8 +10,6 @@ dateCreated: 2025-06-16T14:11:49.626Z
 
 > 该教程适用于 **本体版本 (v1.16.8.38f9)/本体测试版 (v1.16.9)**
 {.is-success}
-
-# HOI4 Mod 制作入门教程
 
 ## 第一章：创建你的第一个 Mod
 
