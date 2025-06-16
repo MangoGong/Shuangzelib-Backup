@@ -2,7 +2,7 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-16T14:37:37.234Z
+date: 2025-06-16T14:38:41.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
@@ -59,6 +59,7 @@ Mod 文件的默认路径如下：`C:\Users\你的用户名\Documents\Paradox In
    - `Chinese (Simplified)`（中文语言包）
    - `CWTools`（适用于 Paradox 游戏的开发插件）
    - `VModder`（针对 CWTools 的补充插件）
+   - `HOI4 Mod Utilities`（HOI4 部分图形化预览工具）
 4. 在 **查看** 中（左上角）点击 **控制面板** ，在弹出的框中搜索 **Configure Display Language** 将语言更改为中文即可
 5. 配置 `CWTools` 插件路径：
 - 点击扩展 → 找到 CWTools → 点击右下齿轮图标 → 选择“扩展设置”
