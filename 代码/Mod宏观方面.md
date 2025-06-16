@@ -2,7 +2,7 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-16T14:28:27.761Z
+date: 2025-06-16T14:31:00.335Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
@@ -53,7 +53,7 @@ Mod 文件的默认路径如下：`C:\Users\你的用户名\Documents\Paradox In
 
 #### ✅ 安装与配置步骤：
 
-1. 打开浏览器，搜索并下载安装 [Visual Studio Code](https://code.visualstudio.com/)
+1. 打开浏览器，下载并安装 [Visual Studio Code](https://code.visualstudio.com/)
 2. 启动软件后点击左侧【扩展】按钮（或快捷键 `Ctrl+Shift+X`）
 3. 搜索并安装以下两个插件：
    - `Chinese (Simplified)`（中文语言包）
