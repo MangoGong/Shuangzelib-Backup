@@ -2,13 +2,13 @@
 title: Mod文件底层方面教程
 description: 嗯，就是底层
 published: true
-date: 2025-06-17T22:07:32.090Z
+date: 2025-06-19T13:41:00.342Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-16T14:11:49.626Z
 ---
 
-> 该教程适用于 **本体版本 (v1.16.9)**
+> 该教程适用于 **本体版本 (v1.16.9)/本体测试版 (v1.16.10)**
 {.is-success}
 # 准备工作
 ## 配置文本编辑器
